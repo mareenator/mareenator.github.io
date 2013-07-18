@@ -253,3 +253,13 @@ footer {
     color:#444;
   }
 }
+
+
+/** -------- mY STYLING -------- **/
+#post{
+ list-style: none;
+}
+
+#post li{
+  border-bottom: 1px dotted #eee;
+}
