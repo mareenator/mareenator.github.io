@@ -1,0 +1,14 @@
+    #masthead{
+        overflow: hidden;
+        background: white;
+    }
+    #masthead h1{ font-family: 'Josefin Sans',cursive; 
+        font-size: 4em; text-align: center;
+        color:rgba(226, 156, 52, 0.67); 
+        margin:0; padding:40px 0px 0px 10px;
+    }
+    #masthead h3{ 
+    	font-family: 'Josefin Sans',cursive; text-align: center; 
+        color:#aaa; font-weight: 200;
+        padding-bottom: 40px;
+    }
